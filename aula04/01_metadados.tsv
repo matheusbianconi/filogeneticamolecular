@@ -1,11 +1,11 @@
 Especie	Nome_popular	Clado	Ploidia
-Brachypodium dystachion		BOP	diploide
-Hordeum vulgare	cevada	BOP	diploide
-Oryza sativa	arroz	BOP	diploide
-Phyllostachys edulis	bambu-mossô	BOP	tetraploide
-Triticum aestivum	trigo	BOP	hexaploide
-Alloteropsis semialata		PACMAD	diploide
-Miscanthus sinensis		PACMAD	diploide (paleo-alotetraploide)
-Setaria italica	painço	PACMAD	diploide
-Sorghum bicolor	sorgo	PACMAD	diploide
-Joinvillea ascendens		Grupo_externo	diploide
+Brachypodium dystachion		BOP
+Hordeum vulgare	cevada	BOP
+Oryza sativa	arroz	BOP
+Phyllostachys edulis	bambu-mossô	BOP
+Triticum aestivum	trigo	BOP
+Alloteropsis semialata		PACMAD
+Miscanthus sinensis		PACMAD
+Setaria italica	painço	PACMAD
+Sorghum bicolor	sorgo	PACMAD
+Joinvillea ascendens		Grupo_externo
